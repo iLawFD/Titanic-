@@ -21,5 +21,5 @@
 - Because this is a classification problem, i choose the KNN model
 - By chaning the values of N, i found that n =4 gives the best accuracy
 - Accuracy Based Train & Split method is 79.33%
-# The solution for this problelm is explained in the Notebook's markdown along with my reasons. Make sure to check it out
+## The solution for this problelm is explained in the Notebook's markdown along with my reasons. Make sure to check it out
 
