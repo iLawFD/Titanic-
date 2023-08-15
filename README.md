@@ -1,6 +1,6 @@
-# This is my soultion for the famous kaggle competition, the titanic, in which we try to predict the surrvivors using Data Science. 
+## This is my soultion for the famous kaggle competition, the titanic, in which we try to predict the surrvivors using Data Science. 
 
-## In this project, we will go through three phases:
+### In this project, we will go through three phases:
     1- Data exploring & cleaning
     2- Data anaylsis & finding realtionships
     3- Building ML model
